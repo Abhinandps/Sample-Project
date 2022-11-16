@@ -127,6 +127,7 @@ Section .cards {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    
 }
 
 .cards .card {
@@ -228,6 +229,9 @@ ul li a , p{
     Section h1{
         font-size: 25px;
     }
+    Section{
+       margin: 0 0 150px 0;
+    }
     .alert-text p {
         display: inline-block;
         padding: 20px 30px;
@@ -238,6 +242,7 @@ ul li a , p{
         font-size: 13px;
     }
     Footer{
+        padding: 0 20px;
         height: 15vh;
     }
 }
