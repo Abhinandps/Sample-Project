@@ -226,6 +226,11 @@ ul li a , p{
     Header .search_box{
         width: 250px;
     }
+    
+.search_box input {
+    width: 200px;
+   background: red;
+}
     Section h1{
         font-size: 25px;
     }
