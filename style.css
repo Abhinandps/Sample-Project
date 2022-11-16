@@ -68,6 +68,8 @@ Header .search_box {
 }
 
 .search_box button{
+    position: absolute;
+    right: 20px;
     border: none;
     display: flex;
     justify-content: center;
