@@ -67,10 +67,14 @@ Header .search_box {
     outline: none;
 }
 
-.search_box img {
-    position: absolute;
-    right: 20px;
+.search_box button{
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
 }
+
 
 
 
